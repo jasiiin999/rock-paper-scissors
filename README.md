@@ -31,8 +31,7 @@ A simple and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**,
 
 ## 🖼️ Screenshot
 
-
-<img width="960" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/86663ecf-1fd0-4f95-bd11-ba3129d5ce17" />
+<img width="957" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/3876780d-af9f-4220-8acb-ef3a9b462c4c" />
 
 ## 📦 How to Run Locally
 
