@@ -5,7 +5,6 @@ A simple and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**,
 ## 🚀 Live Demo
 
 👉 [Play the Game](https://jasiiin999.github.io/rock-paper-scissors/)  
-*(Make sure your repo name is `rock-paper-scissors` or update the link accordingly)*
 
 ## 🛠️ Technologies Used
 
@@ -32,7 +31,8 @@ A simple and interactive Rock-Paper-Scissors game built using **HTML**, **CSS**,
 
 ## 🖼️ Screenshot
 
-*(Add a screenshot here if you’d like)*
+
+<img width="960" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/86663ecf-1fd0-4f95-bd11-ba3129d5ce17" />
 
 ## 📦 How to Run Locally
 
